@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Anoli 👋</h1>
 
 <h3 align="center">
-  Aspiring Data Scientist | BSc Data Science Student
+  Aspiring Data Analyst | BSc Data Science Student
 </h3>
 
 <p align="center">

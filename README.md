@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**anoli05-sketch/anoli05-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Anoli 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Aspiring Data Scientist | BSc Data Science Student
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Learning, building and exploring the world of technology! 💻
+</p>
+
+---
+
+### 🌷 About Me
+
+- 🎓 BSc Data Science student
+- 🐍 Learning Python
+- 📊 Exploring Data Science and Analytics
+- 🤖 Interested in AI & Machine Learning
+- 🌱 Always curious to learn something new
+
+### 💻 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+### 🎯 My Goals
+
+- Build real-world projects
+- Participate in hackathons
+- Improve my coding skills
+- Explore Machine Learning
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 💜
+</p>
